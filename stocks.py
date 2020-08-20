@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 """Plot Two Columns"""
 
-import pandas as
+import pandas as pd
 import matplotlib.pyplot as plt
 
 
